@@ -84,12 +84,12 @@ Game Jam project. Source code is provided for portfolio and learning purposes.
 
 ### Скриншоты
 
-![Frozen garden](Screenshots/image (1).png)
-![Frozen garden](Screenshots/image (2).png)
-![Awakened garden](Screenshots/image (3).png)
-![Spring mushrooms](Screenshots/image (4).png)
-![Spring mushrooms](Screenshots/image (5).png)
-![Final rose](Screenshots/image (6).png)
+![Frozen garden](<Screenshots/image (1).png>)
+![Frozen garden](<Screenshots/image (2).png>)
+![Awakened garden](<Screenshots/image (3).png>)
+![Spring mushrooms](<Screenshots/image (4).png>)
+![Spring mushrooms](<Screenshots/image (5).png>)
+![Final rose](<Screenshots/image (6).png>)
 
 ### Статус проекта
 
